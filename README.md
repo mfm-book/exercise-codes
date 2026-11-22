@@ -1,2 +1,2 @@
-# excercise-codes
-excercise-codes
+# exercise-codes
+exercise-codes
